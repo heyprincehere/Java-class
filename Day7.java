@@ -2,12 +2,12 @@ import java.util.*;
 public class Day7{
     
     public static void main(String[] args) {
-        int arr[][]={
+        /*int arr[][]={
             {10,20,30,40},
             {15,25,35,45},
             {32,33,39,50}
-        };
-        sorted(arr, 39);
+        };*/
+        //sorted(arr, 39);
         /*int arr[][]={
             {2,3,4,5},
             {6,7,8,9},
@@ -53,7 +53,7 @@ public class Day7{
         }
 
     }*/
-    public static void sorted(int arr[][],int key){
+    /*public static void sorted(int arr[][],int key){
         int row=0;int col=0;
         boolean isfound =false;
         while(row<arr.length && col>=arr.length){
@@ -73,5 +73,5 @@ public class Day7{
             }
 
     }
-}
+}*/
 }// string is palindrom and displacement

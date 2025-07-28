@@ -1,6 +1,6 @@
 public class Day8 {
     //OOP
-    // Class
+    // Class -->atrributes and methods
     /// artributes
     /// objects
     /// constructor
